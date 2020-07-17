@@ -1,11 +1,11 @@
-### Volunteer details of OWASP Ahmedabad Chapter
+# Volunteer details of OWASP Ahmedabad Chapter
 
-## Creative Innovation & Designing Team
+### Creative Innovation & Designing Team
 * Harshil Sharma
 * Rushabh Makim
 * Rutwa Panagar
 
-## Multimedia & Networking Team
+### Multimedia & Networking Team
 * Harsh Joshi
 * Priyam Patel
 * Vidhi Panchal
