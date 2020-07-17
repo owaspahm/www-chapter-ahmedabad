@@ -1,7 +1,7 @@
 ### Volunteer details of OWASP Ahmedabad Chapter
 * Vidhi Panchal
 * Rutwa Panagar
-* Rushabh
+* Rushabh Makim
 * Harsh Joshi
 * Harshil Sharma
 * Priyam Patel
