@@ -1,4 +1,4 @@
-# Volunteer details of OWASP Ahmedabad Chapter
+## Volunteer details of OWASP Ahmedabad Chapter
 
 ### Creative Innovation & Designing Team
 * Harshil Sharma
